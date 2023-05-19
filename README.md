@@ -2,9 +2,9 @@
 ## Table of Contents
 * [About](#about)
 * [Portfolio projects](Portfolio-projects)
-  - Excel
+ - Excel
    * [Electric energy demand analysis and visualization](#Electric-energy-demand-analysis-and-visualization)
-  - Tableau
+ - Tableau
    * [Dashboard meeting business requrements](#Dashboard-meeting-business-requrements)
 * [Certificates](#Certificates)
 * [Contact](Contact)
