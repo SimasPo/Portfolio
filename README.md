@@ -40,4 +40,13 @@ I like to experiment with new tools and methods for data analysis in during my s
 
 **Results:** Created dashboard blueprint and completed dashboard that: allows the user to identify themselves, based on that identity, presents the appropriate data and visualizations, shows all of the KPIs in the blueprint.
 
+## Education
+Maturity Diploma: seccessfully completed the secondary level of education. 19 July 2013
+
+## Certificates
+- [Master the Fundamentals of Excel](https://openclassrooms.com/en/course-certificates/8266393312) (Openclassrooms course)
+- [Improve your data literacy](https://openclassrooms.com/en/course-certificates/6408027879) (Openclassrooms course)
+
+## Contacts
+Email: simas9410@gmail.com
 
