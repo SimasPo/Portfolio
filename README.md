@@ -1,4 +1,4 @@
-# Simas Pocevicius - Data analyst portfolio
+# Simas Pocevicius - Junior Data Analyst portfolio
 ## About
 My name is Simas. I am from Lithuania. I am 28yars old and I like to travel
 ## Table of Contents
@@ -16,7 +16,7 @@ My name is Simas. I am from Lithuania. I am 28yars old and I like to travel
 
 **Goal:** The objective of this project is to create a neatly formatted version of the data, show summaries of the demand over time, show the effect of weather on demand, show the impact of holidays on demand.
 
-**Description:** 
+**Description:** In the dataset were date, demand, PRP, weather characteristics. Data cleaning and processing are completed. VLOOKUP, MAXIFS TEXT, INDEX, MATCH function usage. Energy demand over time, effect of weather on demand, demand by different time slices graphs with insights. Summarization of the extremes in demand and revenue.
 
 **Skills:** Data analysis, data visualization, data cleaning and organization
 
