@@ -1,4 +1,4 @@
-# Simas Pocevicius - Junior Data Analyst portfolio
+# Simas Pocevicius - Data Analyst portfolio
 ## About
 My name is Simas. I'm on track to finish my data analysis courses. I used to work in various jobs and I've become passionate about using data to discover meaningful insights. As a beginning data professional, I am ready to put my technical and analytical skills to the field of data science.I take enthusiasm from my ability to think critically and solve problems, in addition to my technical skills, which I gained from my previous jobs. I am able to analyse data strategically and find the data's key problems and prospects. During my studies I improved my data-working skills and grew my ability in recognising patterns and trends during my studies. I also gained experience in data analytics techniques such as dashboard building, report, blueprint writing, statistics, and critical thinking. 
 
