@@ -6,13 +6,13 @@ I like to experiment with new tools and methods for data analysis in during my s
 
 ## Table of Contents
 * [About](https://github.com/SimasPo/Hello-world/blob/main/README.md#about)
-* [Study projects](Study-projects)
+* [Study projects](https://github.com/SimasPo/Hello-world/blob/main/README.md#study-projects)
  - Excel
-   * [Electric energy demand analysis and visualization](#Electric-energy-demand-analysis-and-visualization)
+   * [Electric energy demand analysis and visualization](https://github.com/SimasPo/Hello-world/blob/main/README.md#electric-energy-demand-data-transformation-analysis-and-visualization)
  - Tableau
-   * [Dashboard meeting business requrements](#Dashboard-meeting-business-requrements)
-* [Certificates](#Certificates)
-* [Contact](Contact)
+   * [Dashboard meeting business requrements](https://github.com/SimasPo/Hello-world/blob/main/README.md#dashboard-meeting-business-requrements)
+* [Certificates](https://github.com/SimasPo/Hello-world/blob/main/README.md#education)
+* [Contact](https://github.com/SimasPo/Hello-world/blob/main/README.md#contacts)
 ## Study projects
 ### [Electric energy demand data transformation, analysis and visualization](https://github.com/SimasPo/Electric-energy-demand-analysis-and-visualization)
 **Full project:** 
