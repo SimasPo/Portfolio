@@ -14,7 +14,9 @@ My name is Simas. I am from Lithuania. I am 28yars old and I like to travel
 ### [Electric energy demand data transformation, analysis and visualization](https://github.com/SimasPo/Electric-energy-demand-analysis-and-visualization)
 **Full project:** 
 
-**Description:** The objective of this project is to create a neatly formatted version of the data, show summaries of the demand over time, show the effect of weather on demand, show the impact of holidays on demand.
+**Goal:** The objective of this project is to create a neatly formatted version of the data, show summaries of the demand over time, show the effect of weather on demand, show the impact of holidays on demand.
+
+**Description:** 
 
 **Skills:** Data analysis, data visualization, data cleaning and organization
 
