@@ -4,8 +4,6 @@ My name is Simas. I'm on track to finish my data analysis courses. I used to wor
 
 I like to experiment with new tools and methods for data analysis in during my spare time, and I am constantly seeking for ways to increase my knowledge and abilities.I'm motivated by the excitement of finding new insights and the pride of utilising data to tackle tricky challenges, whether I'm working alone or in a team.
 
-My CV in [pdf](https://github.com/SimasPo/Hello-world/blob/main/Simas_Pocevicius_CV.pdf)
-
 ## Table of Contents
 * [About](https://github.com/SimasPo/Hello-world/blob/main/README.md#about)
 * [Study projects](https://github.com/SimasPo/Hello-world/blob/main/README.md#study-projects)
