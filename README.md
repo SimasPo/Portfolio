@@ -42,7 +42,7 @@ I like to experiment with new tools and methods for data analysis in during my s
 
 **Results:** Created dashboard blueprint and completed dashboard that: allows the user to identify themselves, based on that identity, presents the appropriate data and visualizations, shows all of the KPIs in the blueprint.
 
-### Assess the Quality of a Dataset for a Public Service Agency](https://github.com/SimasPo/assess-te-quality-of-a-dataset-for-a-public-service-agency)
+### [Assess the Quality of a Dataset for a Public Service Agency](https://github.com/SimasPo/assess-te-quality-of-a-dataset-for-a-public-service-agency)
 
 ## Education
 Maturity Diploma: seccessfully completed the secondary level of education. 19 July 2013
