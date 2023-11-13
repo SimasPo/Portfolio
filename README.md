@@ -54,7 +54,7 @@ Loading the Data and Performing Initial Exploration, Further Inspection of the D
 
 **Skills:** Identify data sources and the risks, challenges to combination. Undertake customer requirements analysis and implement findings in planning and outputs. Identify and escalate quality risks in data analysis with suggested mitigation/resolutions. Apply principles of data classification within data analysis activity. Describe principles of data, including open, public, administrative and research data.
 
-**Tools:** Google Colab, Sqlite, Python, Pandas
+**Tools:** Google Colab, Python, Pandas
 
 **Results:** The data source list to help to understand where the data comes from and if there are any problems or limitations with its usage. Understanding of the types of variables I am dealing with, the overall size of the data sets and the data types of the columns. Determined which columns have missing values and how big the problem is. Checked if there are any outliers in the tree heights, spreads or diameters and how many duplicate trees there is. List of trees that are not actually in the desired area. Identified mismatches between the different data set.
 
@@ -63,13 +63,13 @@ Loading the Data and Performing Initial Exploration, Further Inspection of the D
 
 **Goal:** To learn how ChatData (a popular network of question-and-answer websites sites) are being used in the real world to understand which features are useful to the users and what additional features might be worth introducing.
 
-**Description:** 
+**Description:** Recap of tasks: Create an ERD, create an SQLite database and load the data, create single table queries to analyse engagement, create cross table queries to analyse engagement further, Check the queries table to ensure you have recorded all the queries.
 
-**Skills:** Data exploration, data analysis, data visualization
+**Skills:** Undertake customer requirements analysis and implement findings in planning and outputs, Use data systems securely to meet requirements and in line with procedures and legislation, Select and apply the most appropriate data tools to achieve the best outcome, Identify and escalate quality risks in data analysis with suggested mitigation/resolutions, Apply organizational architecture requirements to data analysis activities, Describe fundamentals of data structures, database design, implementation and maintenance
 
-**Tools:** Tableau
+**Tools:** Google Colab, Sqlite, Pandas
 
-**Results:** Created dashboard blueprint and completed dashboard that: allows the user to identify themselves, based on that identity, presents the appropriate data and visualizations, shows all of the KPIs in the blueprint.
+**Results:** Created an ERD, Created a SQLite database, Loaded data into the tables, Analyzed the data structure, how well it works in a relational model, and the security and ethical, Completed all of the Single Table Queries, Completed all of the queries that require joins, Made sure that all queries working and formatted in the queries table, Searched the queries table for particular types of queries, 
 
 ## Education
 Maturity Diploma: seccessfully completed the secondary level of education. 19 July 2013
