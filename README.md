@@ -12,7 +12,7 @@ I like to experiment with new tools and methods for data analysis in during my s
  - Tableau
    * [Dashboard meeting business requrements](https://github.com/SimasPo/Hello-world/blob/main/README.md#dashboard-meeting-business-requrements)
  - Google Colab, Sqlite, Python, Pandas
-   * [Assess the Quality of a Dataset for a Public Service Agency]((https://github.com/SimasPo/Hello-world/blob/main/README.md#
+   * [Assess the Quality of a Dataset for a Public Service Agency](https://github.com/SimasPo/Hello-world/blob/main/README.md#assess-te-quality-of-a-dataset-for-a-public-service-agency)
 * [Certificates](https://github.com/SimasPo/Hello-world/blob/main/README.md#education)
 * [Contact](https://github.com/SimasPo/Hello-world/blob/main/README.md#contacts)
 ## Study projects
