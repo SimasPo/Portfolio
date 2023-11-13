@@ -31,7 +31,7 @@ I like to experiment with new tools and methods for data analysis in during my s
 
 **Results:** As a result we have clean, well organised tables and clear insights from graphs.
 
-**Deliverables** 
+**Deliverables** [Energy Demand .xlsx](https://github.com/SimasPo/Hello-world/blob/main/EnergyDemand%20worksheet.xlsx)
 
 ### [Dashboard meeting business requrements](https://github.com/SimasPo/assess-te-quality-of-a-dataset-for-a-public-service-agency)
 **Full project:**
@@ -45,6 +45,8 @@ I like to experiment with new tools and methods for data analysis in during my s
 **Tools:** Tableau
 
 **Results:** Created dashboard blueprint and completed dashboard that: allows the user to identify themselves, based on that identity, presents the appropriate data and visualizations, shows all of the KPIs in the blueprint.
+
+**Deliverables** [Dashboard blueprint .docx](https://github.com/SimasPo/Hello-world/blob/main/Dashboard_Blueprint.docx), [Tableau Dashboard](https://github.com/SimasPo/Hello-world/blob/main/Tableau)
 
 ### [Assess the Quality of a Dataset for a Public Service Agency](https://github.com/SimasPo/assess-te-quality-of-a-dataset-for-a-public-service-agency)
 **Full project:**
@@ -60,7 +62,9 @@ Loading the Data and Performing Initial Exploration, Further Inspection of the D
 
 **Results:** The data source list to help to understand where the data comes from and if there are any problems or limitations with its usage. Understanding of the types of variables I am dealing with, the overall size of the data sets and the data types of the columns. Determined which columns have missing values and how big the problem is. Checked if there are any outliers in the tree heights, spreads or diameters and how many duplicate trees there is. List of trees that are not actually in the desired area. Identified mismatches between the different data set.
 
+**Deliverables** [Data Requirements .docx](https://github.com/SimasPo/Hello-world/blob/main/Data_Requirements.docx), [Data Source List .docx](https://github.com/SimasPo/Hello-world/blob/main/Data_Source_List.docx), [Jupyter Notebook.ipynb](https://github.com/SimasPo/Hello-world/blob/main/Jupyter_Notebook.ipynb)
 ### [Retrieve User Activity Data on an Online Forum Using SQL](https://github.com/SimasPo/retrieve-user-activity-data-on-an-online-forum-using-sql)
+
 **Full project:**
 
 **Goal:** To learn how ChatData (a popular network of question-and-answer websites sites) are being used in the real world to understand which features are useful to the users and what additional features might be worth introducing.
@@ -73,11 +77,14 @@ Loading the Data and Performing Initial Exploration, Further Inspection of the D
 
 **Results:** Created an ERD, Created a SQLite database, Loaded data into the tables, Analyzed the data structure, how well it works in a relational model, and the security and ethical, Completed all of the Single Table Queries, Completed all of the queries that require joins, Made sure that all queries working and formatted in the queries table, Searched the queries table for particular types of queries, 
 
+**Deliverables** [ERD .png](https://github.com/SimasPo/Hello-world/blob/main/ERD.png), [Chatdata Notebook .ipynb](https://github.com/SimasPo/Hello-world/blob/main/Chatdata_Notebook.ipynb)
+
 ## Education
 Maturity Diploma: seccessfully completed the secondary level of education. 19 July 2013
 
 ## Certificates
-- [Data Analyst - Skills Bootcamp]
+- [Data Analyst - Skills Bootcamp](https://github.com/SimasPo/Hello-world/blob/main/proof-of-completion.pdf) (Openclassrooms course)
+
 - [Master the Fundamentals of Excel](https://openclassrooms.com/en/course-certificates/8266393312) (Openclassrooms course)
 - [Improve your data literacy](https://openclassrooms.com/en/course-certificates/6408027879) (Openclassrooms course)
 
