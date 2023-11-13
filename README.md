@@ -13,6 +13,8 @@ I like to experiment with new tools and methods for data analysis in during my s
    * [Dashboard meeting business requrements](https://github.com/SimasPo/Hello-world/blob/main/README.md#dashboard-meeting-business-requrements)
  - Google Colab, Sqlite, Python, Pandas
    * [Assess the Quality of a Dataset for a Public Service Agency](https://github.com/SimasPo/Hello-world/blob/main/README.md#assess-te-quality-of-a-dataset-for-a-public-service-agency)
+  - Blabla
+    * [Retrieve User Activity Data on an Online Forum Using SQL](https://github.com/SimasPo/Hello-world/blob/main/README.md#retrieve-user-activity-data-on-an-online-forum-using-sql)
 * [Certificates](https://github.com/SimasPo/Hello-world/blob/main/README.md#education)
 * [Contact](https://github.com/SimasPo/Hello-world/blob/main/README.md#contacts)
 ## Study projects
@@ -43,6 +45,31 @@ I like to experiment with new tools and methods for data analysis in during my s
 **Results:** Created dashboard blueprint and completed dashboard that: allows the user to identify themselves, based on that identity, presents the appropriate data and visualizations, shows all of the KPIs in the blueprint.
 
 ### [Assess the Quality of a Dataset for a Public Service Agency](https://github.com/SimasPo/assess-te-quality-of-a-dataset-for-a-public-service-agency)
+**Full project:**
+
+**Goal:** To evaluate the data for projects and determine the extent to which this is possible.
+
+**Description:** The Parks and Open Spaces Office within the Council have identified some data that they think will support upcoming projects as part of the council’s new data initiative. The data includes a list of trees in the borough. The team are unsure as to whether the data they have can be used to deliver these projects. My job is to evaluate the data and determine the extent to which this is possible. Project includes: Documentation of the Data Sources, 
+Loading the Data and Performing Initial Exploration, Further Inspection of the Data Sets, Identifying Missing Values, Identifying Outliers in the Trees Dimensions, Identifying Duplicates in the Data Set, Identifying Geolocation Issues, Identifying Unmatched Data, Reporting back on me process.
+
+**Skills:** Identify data sources and the risks, challenges to combination. Undertake customer requirements analysis and implement findings in planning and outputs. Identify and escalate quality risks in data analysis with suggested mitigation/resolutions. Apply principles of data classification within data analysis activity. Describe principles of data, including open, public, administrative and research data.
+
+**Tools:** Google Colab, Sqlite, Python, Pandas
+
+**Results:** The data source list to help to understand where the data comes from and if there are any problems or limitations with its usage. Understanding of the types of variables I am dealing with, the overall size of the data sets and the data types of the columns. Determined which columns have missing values and how big the problem is. Checked if there are any outliers in the tree heights, spreads or diameters and how many duplicate trees there is. List of trees that are not actually in the desired area. Identified mismatches between the different data set.
+
+### [Retrieve User Activity Data on an Online Forum Using SQL](https://github.com/SimasPo/retrieve-user-activity-data-on-an-online-forum-using-sql)
+**Full project:**
+
+**Goal:** To learn how ChatData (a popular network of question-and-answer websites sites) are being used in the real world to understand which features are useful to the users and what additional features might be worth introducing.
+
+**Description:** 
+
+**Skills:** Data exploration, data analysis, data visualization
+
+**Tools:** Tableau
+
+**Results:** Created dashboard blueprint and completed dashboard that: allows the user to identify themselves, based on that identity, presents the appropriate data and visualizations, shows all of the KPIs in the blueprint.
 
 ## Education
 Maturity Diploma: seccessfully completed the secondary level of education. 19 July 2013
