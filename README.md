@@ -31,6 +31,8 @@ I like to experiment with new tools and methods for data analysis in during my s
 
 **Results:** As a result we have clean, well organised tables and clear insights from graphs.
 
+**Deliverables** 
+
 ### [Dashboard meeting business requrements](https://github.com/SimasPo/assess-te-quality-of-a-dataset-for-a-public-service-agency)
 **Full project:**
 
