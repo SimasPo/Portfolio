@@ -11,9 +11,9 @@ I like to experiment with new tools and methods for data analysis in during my s
    * [Electric energy demand analysis and visualization](https://github.com/SimasPo/Hello-world/blob/main/README.md#electric-energy-demand-data-transformation-analysis-and-visualization)
  - Tableau
    * [Dashboard meeting business requrements](https://github.com/SimasPo/Hello-world/blob/main/README.md#dashboard-meeting-business-requrements)
- - Google Colab, Sqlite, Python, Pandas
+ - Google Colab, Pandas
    * [Assess the Quality of a Dataset for a Public Service Agency](https://github.com/SimasPo/Hello-world/blob/main/README.md#assess-te-quality-of-a-dataset-for-a-public-service-agency)
-  - Blabla
+  - Google Colab, Sqlite, Pandas
     * [Retrieve User Activity Data on an Online Forum Using SQL](https://github.com/SimasPo/Hello-world/blob/main/README.md#retrieve-user-activity-data-on-an-online-forum-using-sql)
 * [Certificates](https://github.com/SimasPo/Hello-world/blob/main/README.md#education)
 * [Contact](https://github.com/SimasPo/Hello-world/blob/main/README.md#contacts)
@@ -54,7 +54,7 @@ Loading the Data and Performing Initial Exploration, Further Inspection of the D
 
 **Skills:** Identify data sources and the risks, challenges to combination. Undertake customer requirements analysis and implement findings in planning and outputs. Identify and escalate quality risks in data analysis with suggested mitigation/resolutions. Apply principles of data classification within data analysis activity. Describe principles of data, including open, public, administrative and research data.
 
-**Tools:** Google Colab, Python, Pandas
+**Tools:** Google Colab, Pandas
 
 **Results:** The data source list to help to understand where the data comes from and if there are any problems or limitations with its usage. Understanding of the types of variables I am dealing with, the overall size of the data sets and the data types of the columns. Determined which columns have missing values and how big the problem is. Checked if there are any outliers in the tree heights, spreads or diameters and how many duplicate trees there is. List of trees that are not actually in the desired area. Identified mismatches between the different data set.
 
@@ -75,6 +75,7 @@ Loading the Data and Performing Initial Exploration, Further Inspection of the D
 Maturity Diploma: seccessfully completed the secondary level of education. 19 July 2013
 
 ## Certificates
+- [Data Analyst - Skills Bootcamp]
 - [Master the Fundamentals of Excel](https://openclassrooms.com/en/course-certificates/8266393312) (Openclassrooms course)
 - [Improve your data literacy](https://openclassrooms.com/en/course-certificates/6408027879) (Openclassrooms course)
 
