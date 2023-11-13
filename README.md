@@ -11,6 +11,8 @@ I like to experiment with new tools and methods for data analysis in during my s
    * [Electric energy demand analysis and visualization](https://github.com/SimasPo/Hello-world/blob/main/README.md#electric-energy-demand-data-transformation-analysis-and-visualization)
  - Tableau
    * [Dashboard meeting business requrements](https://github.com/SimasPo/Hello-world/blob/main/README.md#dashboard-meeting-business-requrements)
+ - Google Colab, Sqlite, Python, Pandas
+   * [Assess the Quality of a Dataset for a Public Service Agency]
 * [Certificates](https://github.com/SimasPo/Hello-world/blob/main/README.md#education)
 * [Contact](https://github.com/SimasPo/Hello-world/blob/main/README.md#contacts)
 ## Study projects
