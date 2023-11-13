@@ -29,7 +29,7 @@ I like to experiment with new tools and methods for data analysis in during my s
 
 **Results:** As a result we have clean, well organised tables and clear insights from graphs.
 
-### [Dashboard meeting business requrements](https://github.com/SimasPo/Dashboard-meeting-business-requrements)
+### [Dashboard meeting business requrements](https://github.com/SimasPo/assess-te-quality-of-a-dataset-for-a-public-service-agency)
 **Full project:**
 
 **Goal:** To standardize the monitoring of various projects within the company.
@@ -41,6 +41,8 @@ I like to experiment with new tools and methods for data analysis in during my s
 **Tools:** Tableau
 
 **Results:** Created dashboard blueprint and completed dashboard that: allows the user to identify themselves, based on that identity, presents the appropriate data and visualizations, shows all of the KPIs in the blueprint.
+
+### Assess the Quality of a Dataset for a Public Service Agency](https://github.com/SimasPo/Dashboard-meeting-business-requrements)
 
 ## Education
 Maturity Diploma: seccessfully completed the secondary level of education. 19 July 2013
