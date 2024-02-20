@@ -81,6 +81,7 @@ Loading the Data and Performing Initial Exploration, Further Inspection of the D
 
 ## Education
 Maturity Diploma: seccessfully completed the secondary level of education. 19 July 2013
+
 Bachelor's degree: "Kaunas technology university" engineering of mechanics (in progress)
 
 ## Certificates
