@@ -93,3 +93,5 @@ Bachelor's degree: "Kaunas technology university" engineering of mechanics (in p
 ## Contacts
 Email: simas9410@gmail.com
 
+Mobile phone: 07572625678
+
