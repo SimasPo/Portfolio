@@ -80,9 +80,9 @@ Loading the Data and Performing Initial Exploration, Further Inspection of the D
 **Deliverables** [ERD .png](https://github.com/SimasPo/Hello-world/blob/main/ERD.png), [Chatdata Notebook .ipynb](https://github.com/SimasPo/Hello-world/blob/main/Chatdata_Notebook.ipynb)
 
 ## Education
-Maturity Diploma: seccessfully completed the secondary level of education. 19 July 2013
+Seccessfully completed the secondary level of education. 19 July 2013
 
-Bachelor's degree: "Kaunas technology university" engineering of mechanics (in progress)
+"Kaunas technology university" engineering of mechanics
 
 ## Certificates
 - [Data Analyst - Skills Bootcamp](https://github.com/SimasPo/Hello-world/blob/main/proof-of-completion.pdf) (Openclassrooms course)
